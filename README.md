@@ -1,5 +1,4 @@
-# Introduction-to-MongoDB
-#### It's all of my scripts and configuration for Coursera Introduction to MongoDB Course
+### It's all of my scripts, configuration and bugfixes for Introduction to MongoDB
 
 ### Bug fixed
 #### Week 1)
