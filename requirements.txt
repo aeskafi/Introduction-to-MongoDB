@@ -1,0 +1,7 @@
+# Core dependencies for MongoDB Jupyter Notebooks & scripts
+pymongo>=4.6.0
+dnspython>=2.0.0
+dateparser>=1.1.0
+matplotlib>=3.5.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
